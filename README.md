@@ -1,1 +1,5 @@
-# SD-LAB-5th-Sem-Sec-A-Group-11
+# Oil Product Management System 
+
+The traditional oil product management  system has various flaws in it as because of which most of the people don’t use the system even though it has several advantages over traditional stores. The biggest problem is that it takes at least a day to deliver a product to the customer. While some other issues are a duplication of the product means the product is shown on the GUI some time differs with the original product due to which next time that customer go to buy the product through the traditional type of store.
+
+The oil product management system will primarily provide a platform to purchase, sell, distribution of items, product or service on some network.  It will provide an option to a customer for the comparison of product with another seller, while a shop is available only at day time the e-commerce is available 24 hours of a day and seven days of the week. The oil management system will be a huge marketplace as most of the business are going to implement based on the internet. This system will provide the detailed description of the products to users so that they can compare to the different product and will by the one which is more suitable to them.
